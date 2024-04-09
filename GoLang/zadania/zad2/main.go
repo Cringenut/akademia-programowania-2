@@ -26,6 +26,7 @@ loop:
 			create_account()
 		case 2:
 		case 3:
+			print_accounts()
 		case 4:
 			break loop
 		default:
